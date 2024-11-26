@@ -4,5 +4,7 @@
 2,2,2,2,Access,,,,,16.0,Plain,blue,118 E SOUTH ST,35.771817,-78.6379858,,,,
 3,3,3,3,Fast Food,,,,,16.0,Plain,blue,1315 OAKWOOD AVENUE,35.7844945,-78.6206819,,,,
 4,4,4,4,Rates Access and Fast Food,,,,,16.0,Plain,blue,2200 HILLSBOROUGH STREET,35.7864724,-78.6644827,,,geojson/NCSU_campuses.geojson,fillColor:red;color:black
-5,5,5,5,Correlations,,,,,16.0,Plain,blue,9101 FAYETTEVILLE ROAD,35.650636199999994,-78.706852,,,,
-6,6,6,6,Limitations and Possible Solutions,,,,,16.0,Plain,blue,5511 CAPITAL CENTER DRIVE STE. 380,35.7672436,-78.7290806,,,,
+5,5,5,5,,,,,,,,,,35.650636199999994,-78.706852,,,,
+6,6,6,6,Correlations,,,,,,,,,35.650636199999994,-78.706852,,,,
+7,7,7,7,,,,,,,,,,35.650636199999994,-78.706852,,,,
+8,8,8,8,Limitations and Possible Solutions,,,,,16.0,Plain,blue,5511 CAPITAL CENTER DRIVE STE. 380,35.7672436,-78.7290806,,,,
